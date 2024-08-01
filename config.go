@@ -20,6 +20,7 @@ func LoadConfig() *Config {
 			"kyotogo",
 			"nobishii-go",
 			"sendaigo",
+			"shibuya-go",
 			"tenntenn",
 			"tinygo-keeb",
 			"umedago",
